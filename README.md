@@ -88,7 +88,7 @@ Kubernetes & GitOps      ██████████████░░░░�
   <a href="https://github.com/bprathap104">
     <img src="https://img.shields.io/badge/GitHub-bprathap104-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/saravanan-baskaran-1a6b0b223">
+  <a href="https://www.linkedin.com/in/saravanan-baskaran-1a6b0b223">
     <img src="https://img.shields.io/badge/LinkedIn-Saravanan%20Baskaran-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
